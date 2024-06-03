@@ -1,4 +1,4 @@
-# Diccionario
+# Diccionario Tecnico
 
 ## Data Warehouse
 
